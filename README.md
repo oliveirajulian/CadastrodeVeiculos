@@ -5,8 +5,8 @@ Este projeto é um sistema de **Cadastro de Veículos**, desenvolvido em Java, q
 O objetivo do projeto é aplicar conceitos de abstração e estruturação de código, proporcionando um gerenciamento simples de frota de veículos.
 
 ## Tecnologias Utilizadas:
-Linguagem: Java
-Conceitos aplicados: Orientação a Objetos, encapsulamento, métodos utilitários
+--Linguagem: Java
+--Conceitos aplicados: Orientação a Objetos, encapsulamento, métodos utilitários
 
 ## Desenvolvedores
 - @Daniel de Mattos Acunha Nunes - RA: 1138641  
